@@ -44,7 +44,7 @@ public class alg1 {
         if (sb.length() == 0) {
             System.out.println("0");
         } else {
-            System.out.println(sb.toString());
+            System.out.println("output: \n"+sb.toString());
         }
 
         //scanner.close();
