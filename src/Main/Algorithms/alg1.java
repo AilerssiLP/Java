@@ -1,4 +1,4 @@
-package Algorithms;
+package Main.Algorithms;
 
 public class alg1 {
 

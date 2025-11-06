@@ -1,7 +1,7 @@
-package App;
+package Main.App;
 
-import Algorithms.alg1;
-import Algorithms.alg2;
+import Main.Algorithms.alg1;
+import Main.Algorithms.alg2;
 
 public class Main {
     public static void main(String[] args) {
