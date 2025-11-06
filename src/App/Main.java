@@ -1,3 +1,8 @@
+package App;
+
+import Algorithms.alg1;
+import Algorithms.alg2;
+
 public class Main {
     public static void main(String[] args) {
         //System.out.println(args[1]);
