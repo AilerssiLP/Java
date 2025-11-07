@@ -1,4 +1,4 @@
-Option 1 - Calculate multiplication
+Calculate multiplication
 
 Inside console from src folder type
 
